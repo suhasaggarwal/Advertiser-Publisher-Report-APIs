@@ -1,9 +1,0 @@
-INDEX VERSION 1.127
-C:\UserLoginApp\creativeapp1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\225746772.index
-\creativeapp\src\main\java
-C:\UserLoginApp\creativeapp1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\328828174.index
-\creativeapp\src\main\java
-C:\UserLoginApp\creativeapp1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1157230603.index
-\a2\src\main\java
-C:\UserLoginApp\creativeapp1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2070723033.index
-\a2\src\main\java
